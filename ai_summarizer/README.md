@@ -1,8 +1,18 @@
-# React + Vite
+# Simmpe React App for text summarizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app is a simple text summirizer React app that can get a link to an article or any text and summarize it by using an Article Extractor and Summarizer from Rapid API.
 
-Currently, two official plugins are available:
+## How to run
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run the code, run the following commands:
+
+```bash
+npm install
+npm start
+```
+
+## Credits
+
+This app was created from the folloing tutorail:
+
+- link to the [original tutorial](https://www.youtube.com/watch?v=A6g8xc0MoiY&t=4807s)
